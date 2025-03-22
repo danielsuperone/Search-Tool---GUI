@@ -1,0 +1,4 @@
+35611223344:100084267087680:Samuel:Michaelo:male:Jerona, Malta:Putir, Malta::Shop:8/20/2018 12:00:00 AM::
+35611464755:100084267357840:Name:Surname:male:City, Malta:Putir, Malta::Work:8/20/2018 12:00:00 AM::
+35665783344:100084267087680:Mario:Jason:male:Boma, Malta:Putir, Malta::Shop:8/20/2018 12:00:00 AM::
+35611683355:100084267357840:Jasha:Budija:male:Karto, Malta:Putir, Malta::Work:8/20/2018 12:00:00 AM::
